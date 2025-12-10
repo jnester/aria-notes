@@ -1,6 +1,8 @@
 ﻿# Master Project & Task List
 
-Last updated: 2025-11-20 23:20
+🔗 **[Edit this file](F:\repos\aria-notes\master-tasks.md)**
+
+Last updated: 2025-11-23 04:18
 
 ---
 
@@ -8,11 +10,12 @@ Last updated: 2025-11-20 23:20
 
 ### Voice Agent System
 **Status**: In Progress  
-**Current Focus**: LiveKit Vue client prototype, TTS improvements  
+**Current Focus**: Extended thinking integration, TTS stability, visual communication  
 **Next Actions**:
+- [ ] Timeboxed Orpheus TTS on VLLM (30-60 min) - perfect voice, local privacy
+- [ ] Implement visual communication pipeline (image input/output via LiveKit + Imagen)
+- [ ] Background agent architecture for async work delegation
 - [ ] Complete LiveKit Vue client with working voice connection
-- [ ] Fix rolling summaries auto-generation bug
-- [ ] Debug Orpheus TTS (repeated audio, word cutoffs)
 
 ### Dynamic UI System
 **Status**: Working  
@@ -31,7 +34,14 @@ Last updated: 2025-11-20 23:20
 
 ---
 
-## Completed Today
+## Completed Recently
+**Nov 22-23:**
+- [x] Fixed rolling summaries with Gemini agent (using Antigravity IDE)
+- [x] Enabled extended thinking (2048 token budget) with tool use support
+- [x] Switched to Inworld TTS for stability
+- [x] Created progress notes system
+
+**Nov 20:**
 - [x] Created prototypes system for safe experimentation
 - [x] Built IframeArtifact component for embedding prototypes
 - [x] Fixed Dynamic UI emoji rendering issues
@@ -43,11 +53,13 @@ Last updated: 2025-11-20 23:20
 - [ ] System monitoring dashboard
 - [ ] Decision matrix tool
 - [ ] Architecture diagram viewer
-- [ ] Rolling summaries fix
-- [ ] Orpheus TTS debugging
+- [ ] Establish comprehensive organization system (task lists, notes, documentation structure with clear rules and ownership)
+- [ ] Debug original Orpheus TTS issues (repeated audio, word cutoffs) - if VLLM attempt fails
 
 ---
 
 *This file is the single source of truth for Jason's projects and tasks.*  
 *Main Aria is responsible for keeping it updated.*  
 *All agents can read; updates should be coordinated through Main Aria.*
+
+
