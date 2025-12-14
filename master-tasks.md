@@ -1,8 +1,14 @@
-﻿# Master Project & Task List
+# Master Project & Task List
 
-🔗 **[Edit this file](F:\repos\aria-notes\master-tasks.md)**
+?? **[Edit this file](F:\repos\aria-notes\master-tasks.md)**
 
-Last updated: 2025-11-23 04:18
+Last updated: 2025-12-12
+
+---
+
+## Personal / Time-Sensitive
+
+- [ ] **Monday**: Call Anthem - ask what happens if Medicaid denies or doesn't respond before open enrollment ends. Does the application stay open or do you lose coverage?
 
 ---
 
@@ -61,5 +67,6 @@ Last updated: 2025-11-23 04:18
 *This file is the single source of truth for Jason's projects and tasks.*  
 *Main Aria is responsible for keeping it updated.*  
 *All agents can read; updates should be coordinated through Main Aria.*
+
 
 
