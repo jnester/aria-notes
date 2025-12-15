@@ -1,5 +1,5 @@
 # Jason's Tasks
-**Managed by Aria** | Things only Jason can do
+**Managed by Aria** | Things only Jason's hands can do
 
 ---
 
