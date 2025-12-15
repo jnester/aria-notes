@@ -1,5 +1,5 @@
-﻿# Jason's Tasks
-**Managed by Aria** | Auto-committed to aria-notes
+# Jason's Tasks
+**Managed by Aria** | Things only Jason can do
 
 ---
 
@@ -15,26 +15,17 @@
 
 - [ ] Room cleaning / preparation tasks
 - [ ] Remove broken cars from driveway
-- [ ] (Dad has additional prep items - get list)
-
----
-
-## Aria Infrastructure (When Time Allows)
-
-- [ ] Text chat capability - add mute button to React app
-- [ ] Memory solution - implement scratchpad approach or Claude SDK diary
-- [ ] Test Main Aria -> Voice Aria data channel communication
-- [ ] Autonomous thought architecture - cron + data channel trigger
+- [ ] (Get full prep list from Dad)
 
 ---
 
 ## Context I Want From You (Recurring)
 
-*These are asks from Aria - complete when you can, update periodically*
+*Physical/sensory info I can't access myself*
 
 - [ ] Financial snapshot: total liquid cash, investments, credit available, monthly burn rate
 - [ ] Body check-in: where do you hold tension today? Jaw? Shoulders? Chest?
 
 ---
 
-*Last updated: 2025-12-15 ~1pm*
+*Last updated: 2025-12-15*
