@@ -70,3 +70,10 @@ Last updated: 2025-12-12
 
 
 
+
+### Biometrics Integration (Xiaomi Smart Band 10)
+**Status**: Planned  
+**Next Actions**:
+- [ ] Set up data pipeline (Band -> Gadget Bridge -> Custom Endpoint -> Aria)
+- [ ] Implement ambient context sensing in agent.py
+- [ ] Create visual dashboard for heart rate/HRV metrics
