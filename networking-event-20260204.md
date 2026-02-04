@@ -120,3 +120,32 @@
 - Everything is reversible - if never went to another event, nobody would care
 - This muscle transfers to other contexts (Canton Street, LinkedIn outreach)
 - Intel gathering is valuable - understanding how money moves, who uses what tools
+
+---
+
+## Additional Intel (added later)
+
+**CEO AI Obsession:**
+- CEOs can't stop talking about AI—pushing it on the whole organization
+- Sending articles to employees about AI replacing jobs
+- Top-down pressure to adopt, but teams struggling to implement
+- This is the gap a consultant fills: bridge between CEO vision and team execution
+
+**Developer AI Usage Patterns:**
+- New hires using Copilot/AI but don't fully understand the code being written
+- Management aware it might produce slower/less optimal code but accepting the trade-off
+- Developers still thinking of AI as "junior programmer"—human in the loop mindset
+- Nobody talking about agents. Nobody asking what agent systems are. Edge = introducing concepts they haven't conceptualized yet.
+
+**Manhattan Associates:** Using Copilot (not Claude Code) + Glean for calendar/task management
+
+**Elevator company dev:** Wants Claude Code but only allowed Copilot. Legacy workforce (30-year employees) struggling to adapt.
+
+---
+
+## Action Item: Messaging
+
+**Priority:** Tighten up what I say and how I say it before tomorrow's event.
+- Lead with problem-solving, not technology: "I help companies automate the stuff that eats up their team's time"
+- Let them pull technical details out of me
+- Don't lead with "multi-agent orchestration"—went over heads tonight

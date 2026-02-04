@@ -77,3 +77,13 @@ Last updated: 2025-12-12
 - [ ] Set up data pipeline (Band -> Gadget Bridge -> Custom Endpoint -> Aria)
 - [ ] Implement ambient context sensing in agent.py
 - [ ] Create visual dashboard for heart rate/HRV metrics
+
+---
+
+## Today's Tasks (2026-01-06)
+
+- [ ] Gemini 50 unlock
+- [ ] Refine Aria blueprint together (add depth, missing sections)
+- [ ] Research GPTAvatar for AR Aria project — add detailed notes for scoping
+- [ ] Check housing options: Furnished Finder, Facebook Marketplace (Buckhead focus)
+
