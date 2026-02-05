@@ -143,9 +143,46 @@
 
 ---
 
+## Conversational Patterns (Post-Event Reflection)
+
+### The Conclusionary Statement Problem
+**Pattern identified:** Making short conclusionary comments that close all conversational threads, then going silent—putting the work of continuing the conversation back on the other person.
+
+**What it caused:** The other person would then ask more questions about Jason, leading to talking about himself too much (not the goal).
+
+**The fix:** Never end a turn with a closed statement. Always add:
+- A follow-up question about them
+- A hook they can pull on
+- Genuine curiosity about something they said
+
+**Examples:** "How'd you get into that?" / "What's the hardest part of that?" / "That's interesting, say more."
+
+### Better Openers Than "What Do You Do?"
+"What do you do?" reduces people to their job—okay for business networking but not great for connection.
+
+**Try instead:**
+- "What are you working on that's got you excited?"
+- "What brought you here tonight?"
+
+Same information, invites a more human answer.
+
+### Conversation Length
+Talked too long with wrong people (employed developers—still got useful intel but overstayed).
+
+**David the lawyer modeled it right:** Genuine connection, exchange cards, then gracefully exit: "I'm gonna go say hi to some other people." No awkwardness, just how networking works.
+
+**Rule:** A good 5-10 minute conversation beats a 30 minute one where you're both stuck. Give yourself permission to exit earlier.
+
+### The Connection Play
+When people feel genuinely seen, they remember you. They want to help. Show real interest → they naturally become curious → they want to follow up, make intros, help.
+
+Not extracting value. Creating connection.
+
+---
+
 ## Action Item: Messaging
 
-**Priority:** Tighten up what I say and how I say it before tomorrow's event.
+**Priority:** Tighten up what I say and how I say it before tonight's event (Event 2).
 - Lead with problem-solving, not technology: "I help companies automate the stuff that eats up their team's time"
 - Let them pull technical details out of me
-- Don't lead with "multi-agent orchestration"—went over heads tonight
+- Don't lead with "multi-agent orchestration"—went over heads last night

@@ -1,6 +1,6 @@
-# Networking Event - Ormsby's, Downtown Atlanta
+# Networking Event - Startup Drinks @ Ormsby's
 **Date:** February 4, 2026 (Evening, ~5pm-9pm)
-**Event:** Atlanta Startup Network Meetup (Monthly)
+**Event:** Startup Drinks (Monthly, rotating venues)
 **Venue:** Ormsby's bar, downtown Atlanta
 **Attendees:** ~15 people
 **Next event:** Monthly recurrence — Jason will attend regularly
