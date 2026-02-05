@@ -206,6 +206,38 @@
 
 ---
 
+## Additional Details (Post-Event Reflection, Feb 5)
+
+### Drew — Agentic Capabilities Discussion
+- Conversation touched on how agentic capabilities give you more control to mitigate errors
+- Agents can take corrective actions, follow plans, execute individual tasks
+- They can't do one giant task, but they can create a plan and execute each step
+- Jason reflecting: could have articulated more about agent capabilities in the moment
+- **Drew is explicitly anti-vibe-coding** — said "I am not in any way, shape, or form pro vibe coding"
+
+### Code Drifters Culture
+- General culture leans toward **AI skepticism** — not anti-AI, but skeptical of hype
+- Important context for Friday and future interactions with this group
+
+### Jared — Startup Details (New Company)
+- **Product:** Helps psychologists create reports based on medical files
+- **Data source:** Files from **Epic** (medical records system)
+- Built an **internal tool** for their own team automation
+- **Internal tool uses the LLM Council pattern** — same concept as Jason's Oracle
+  - Council has different roles in a hierarchy
+  - Roles trickle down like sub-agents
+  - Delegates details about models, open source projects, latest developments to another team member ("go crazy with it")
+- **Work-getting-lost problem:** With so much agent activity, work was falling through cracks (Jason experienced this too)
+  - **Solution:** Dedicated worker agent whose only job is scanning everything for unresolved/lost/hanging items and surfacing them to the top for follow-up
+- **Linear integration:** 
+  - Issues created by AI/agents in Linear
+  - Council reviews each Linear issue at the start and end of the process
+- **Jason's takeaway:** Validates the multi-agent + Linear pattern. Someone else independently arrived at the same architecture. The "lost work" sweeper agent is a brilliant addition worth implementing.
+
+### Jason's Role Aspiration
+- Would love to be "that guy" for a company — the one who goes deep on models, open source, agent patterns, and brings it all together
+- Preferably as a consultant, but open to being on a team if compensation is right
+
 ## Action Items
 - [ ] Connect with Drew and Jared on LinkedIn (look up from meetup page) — TONIGHT
 - [ ] Attend Friday investor event (RSVP'd yes, ~13 slots)
@@ -214,3 +246,4 @@
 - [ ] Follow up with Brittany re: Canton Street friend intro
 - [ ] Tighten pitch: share the what, not the how
 - [ ] Friday pitch: lead with consulting, keep product pitch to one sentence if asked
+- [ ] Consider implementing a "lost work sweeper" agent (from Jared's pattern)
