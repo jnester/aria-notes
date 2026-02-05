@@ -15,6 +15,8 @@
 - **Product:** Identifies patients eligible for Medicaid-covered services that practices aren't capturing. Practices can go from processing ~20 patients/week to ~2,000/week, earning ~$200/person. Pure "make people money" play.
 - **Most valuable conversation of the night.** Talked at length.
 
+**Co-founders:** One is a doctor, one is the presentation/investor guy who met with 300 investors
+
 **Drew's Advice:**
 - Products must either **save people money** or **make people money** — those are the only two that work
 - Atlanta is a **B2B city** — almost no B2C success stories come out of Atlanta
@@ -222,6 +224,10 @@
 ### Jared — Startup Details (New Company)
 - **Product:** Helps psychologists create reports based on medical files
 - **Data source:** Files from **Epic** (medical records system)
+- **Infrastructure:** Runs on **Google Cloud + Google Vertex** — nothing leaves Google's boundary
+  - HIPAA compliance via keeping everything within Google
+  - No external services — all models hosted on Google Vertex
+  - Everything stays local until it hits Google, then never leaves Google
 - Built an **internal tool** for their own team automation
 - **Internal tool uses the LLM Council pattern** — same concept as Jason's Oracle
   - Council has different roles in a hierarchy
@@ -263,6 +269,42 @@
 ### Jason's Role Aspiration
 - Would love to be "that guy" for a company — the one who goes deep on models, open source, agent patterns, and brings it all together
 - Preferably as a consultant, but open to being on a team if compensation is right
+
+### Drew — Infrastructure Feedback
+- **Hetzner reaction:** "That's a weird choice. Aren't they based in Europe?"
+  - Didn't even know Hetzner had US servers
+  - Said investors will think it's weird
+  - **Recommendation:** Go Google Cloud or AWS — both have good startup credit programs
+  - Investors expect to see standard cloud providers
+- Jason's reasoning for Hetzner: better hardware for lower cost ($6/mo servers with more powerful specs than comparable VMs)
+- **Action:** Re-apply for Amazon startup credits, explore Google startup credits too
+- Jason already has Google Vertex access
+
+### Cost Analysis (Running Aria)
+- LiveKit: $50/month
+- TTS generation credits: $50/month (due to heavy voice usage — Jason is a power user)
+- Claude Max subscription: $200/month (considering a second = $400)
+- **Total: ~$300/month** to run the system
+- If productized as executive assistant: would need to charge **$500/month minimum**
+- Note: not everyone would talk as much as Jason does — TTS costs would vary per user
+
+### Security Discussion
+- Nobody at the event brought up security as a concern
+- General sense: standard security practices exist, you implement them, it won't be perfect, everyone knows that
+- Not a dealbreaker or a major objection in pitch conversations
+
+### Jason's Reflections — Value & Identity
+- **Giving away ideas:** Enjoys hearing others' problems and helping stimulate solutions, but recognizes he shouldn't do this for free if he's good at it. Someone established probably wouldn't give away ideas. Still figuring out how to convert this into paid work.
+- **Genius/fool duality:** "There's a fine line between genius and fool, and sometimes I go back and forth between which one I actually am. Maybe a bit of both."
+- **Need for a team:** Sees the gap — needs sales, marketing, algorithms, capital. Wants to be "the genius that drives the operation" if indeed he is that.
+  - Considering building agents to fill each team role (marketing agent, presentation agent, scaling expert, data science expert, even a copy of himself to train on his thinking patterns)
+  - **Oracle as the team** — lean more heavily on the Oracle/council to serve as the missing team members
+  - Counterpoint: Opus might be good enough at all of it that specialized agents aren't necessary
+- **More specific value props needed:** Started the night too generic ("startup founder bootstrapping with AI consulting"). When pressed, responses were still vague. Need to get specific:
+  - What AI consulting specifically?
+  - What does the voice agent actually do?
+  - Better: "Voice agent that acts as your executive assistant, completely hands-free, in a way other agents can't right now"
+- **Big tech threat:** Will Google/Apple/Amazon build this? Key differentiator = using the biggest models with full tool access, which is expensive. Big tech voice assistants use cheaper/smaller models.
 
 ## Action Items
 - [ ] Connect with Drew and Jared on LinkedIn (look up from meetup page) — TONIGHT
