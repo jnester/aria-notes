@@ -232,6 +232,32 @@
 - **Linear integration:** 
   - Issues created by AI/agents in Linear
   - Council reviews each Linear issue at the start and end of the process
+- **Epic data problem:**
+  - Psychologist customers have all their documents in Epic (medical records system)
+  - Epic has very limited/poor data export capabilities
+  - Strategy: capture documents "in front of" Epic — intercept data before it enters Epic so it exists in both systems
+  - Existing data stuck in Epic = doctors/staff manually copy-pasting each field from Epic into Jared's system
+  - This is a major pain point and bottleneck for onboarding customers
+  - Jared: "We've got to find a way to stop this, this is horrible"
+  - **Jason's solution ideas (not all shared with Jared):**
+    - Asked discovery questions: is it a file? A web interface?
+    - Chrome extension to intercept/capture data
+    - Computer use agent — screen-reading agent that can see fields and copy/paste automatically
+    - Essentially RPA (robotic process automation) but LLM-powered = more flexible, less brittle
+    - **Prototype idea:** Build a small demo that does computer use automation — opens a desktop app, copies data from fields, pastes into another system
+    - Could be a compelling demo AND a real solution for Jared's pain point
+  - **Current workaround (physical):**
+    - Expert office assistants who are masters at high-speed document scanning
+    - Print full case records (20-100+ pages), scan via copier with insane hand-flipping technique — 100 pages in minutes
+    - Scanned docs emailed as PDF
+    - Then OCR extraction — Jared says OCR models have gotten "insanely good"
+    - This physical pipeline actually works but is obviously not scalable
+  - **Epic platform lock-in:**
+    - No manual export capability — Epic deliberately clings to the data
+    - Can become an official Epic partner for data access, but application process is intentionally dragged out
+    - Epic only moves fast if pressured by a large institution
+    - Jared's company not at the stage yet to get that leverage
+    - Classic healthcare data moat — Epic profits from being the gatekeeper
 - **Jason's takeaway:** Validates the multi-agent + Linear pattern. Someone else independently arrived at the same architecture. The "lost work" sweeper agent is a brilliant addition worth implementing.
 
 ### Jason's Role Aspiration
