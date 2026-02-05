@@ -79,7 +79,7 @@
   - Friend was invited to the event but couldn't make it
 - Connected on LinkedIn ✓
 
-### French Investor (name not captured)
+### Brice (Investor)
 - Tall black guy with French accent
 - Came up to Jason deliberately later in the night
 - Opened with complimenting Jason's outfit: "You're dressed really well tonight"
