@@ -9,7 +9,7 @@
 
 ## Key People
 
-### Drew (Organizer, Code Drifters co-founder, Ned Blow)
+### Drew (Organizer, Code Drifters co-founder, MedFlow)
 - **Background:** Machine learning, even before generative AI
 - **Current:** Built a medical/healthcare startup, recently closed a seed round
 - **Product:** Identifies patients eligible for Medicaid-covered services that practices aren't capturing. Practices can go from processing ~20 patients/week to ~2,000/week, earning ~$200/person. Pure "make people money" play.
