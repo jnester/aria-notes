@@ -8,9 +8,6 @@ If they ask more: "I help businesses automate manual processes with AI."
 ## If Asked About the Product
 "I'm building a voice AI product but it's early stage. Right now I'm focused on AI consulting to find out what businesses really need."
 
-## If Brice/Brittany Ask (they saw you as founder)
-"Yeah, I'm still building the product, but I realized consulting is the smarter path right now. Helps me understand what people actually need before I build the wrong thing."
-
 ## If Talking to an Agency Person
 Ask: "What's your team look like? Do you have any developers on staff?"
 
