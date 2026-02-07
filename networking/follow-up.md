@@ -74,6 +74,46 @@
 **Source:** Gerald recommended at Brice's dinner.
 **Action:** Sign up, build profile.
 
+### FinTech Sandbox (fintechsandbox.org)
+**What:** Resource for companies interacting with fintech companies. Details unclear.
+**Source:** Reginald recommended at Brice's dinner.
+**Action:** Research what they offer.
+
+---
+
+## Dinner Intel & Insights (Feb 7)
+
+### Brice Background
+- Involved in Stonecrest development project in East Atlanta (~$100M+, hundreds of acres, land development)
+- Involved in a new technology building being built in downtown Atlanta (future of technology themed)
+
+### Toshi - ICP & Pain Point Framework
+- **"Hair on fire problems"** = your ICP is defined by who has the most urgent pain
+- Don't just audit all pain points (that was Aubrey's approach)
+- Toshi's correction: Identify who has the MOST pain that is ALSO aligned with what you offer. THEN drill into WHY they're having the pain
+- Uses something called **Prompt Owl** (startup she's helping, in their Slack). Lets you chain different models together in sequence. Recommends document repos where you can switch between models for different results
+- Said ChatGPT has gotten notably worse for writing and business use cases
+
+### Aubrey - Business Audit Approach
+- Audits businesses to identify all pain points
+- Then builds solutions for them (Toshi refined this approach above)
+
+### HIPAA Consulting Opportunity
+- Healthcare founders often aren't technical, don't know HIPAA
+- Building non-compliant systems because they're moving fast
+- Investors don't like it when compliance is neglected
+- **Potential consulting niche:** Help healthcare founders shift infrastructure to HIPAA compliance
+- **Taylor's approach (from Wednesday):** Keep everything within Google Vertex boundary. Google already HIPAA-vetted
+- **Claude Opus** available on all three major clouds (Google, Azure, AWS) via API pricing
+- Could offer compliant AI infrastructure consulting to healthcare startups
+
+### Product Validation Signal
+- Multiple people at dinner expressed interest in the AI executive assistant
+- Toshi wants to beta test it
+- Carl (EA user) immediately understood the value
+- IBM security guy liked the concept
+- **LLM council / AI oracle concept** = potential product differentiator (no one else seems to be doing this)
+
 ---
 
 ## ⚠️ CANCEL LinkedIn Premium before March 6, 2026
