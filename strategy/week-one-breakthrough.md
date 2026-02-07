@@ -84,6 +84,23 @@ One week from "I have no idea what I'm doing" to a full pipeline of connections,
 - **Reginald:** Alt-credit-score fintech CEO. Recommended FinTech Sandbox.
 - **Nehar:** Genuine friend connection. Proposed meeting in 1-2 weeks.
 
+### Toshi's Cold Outreach Story
+- Toshi dismisses virtually every cold outreach she gets, even good ones
+- One guy reached out, said he researched her and their businesses were closely aligned. She scrapped it.
+- He reached out a SECOND time. She scrapped it again.
+- Third time he said: "You can't tell me you don't have these issues." Bold. Specific. And he was RIGHT.
+- She took the chance, they met, great connection, became a real partnership with mutual referrals and 5% referral fees.
+- **Lesson:** Persistence + specificity + boldness cuts through noise. Third try with a bold truth > polite first try.
+
+### Referral Strategy
+- Offer 15% referral fee to anyone who sends consulting clients Jason's way
+- 5% = people forget about you. 15% = people actively think "who do I know that needs AI help?"
+- Zero risk — only pay when a client actually lands
+- **Who to offer this to:** Brice, Toshi, Carl, Brittany, dad's contacts, anyone who talks to business owners
+- Simple pitch: "If you run into anyone struggling with manual processes who's curious about AI, send them my way. 15% of whatever comes from it."
+- No contract needed. Handshake and a percentage.
+- Can adjust percentage later as business scales
+
 ### Key Insight
 - Atlanta startup scene is small. Carl knows Brittany. Toshi knows Drew. Networks overlap. Reputation travels fast. Protect trust above all.
 
