@@ -107,6 +107,14 @@
 - **Claude Opus** available on all three major clouds (Google, Azure, AWS) via API pricing
 - Could offer compliant AI infrastructure consulting to healthcare startups
 
+### Carl - Additional Intel
+- "Find a co-founder where 1+1=3" — stresses the right partner multiplies output
+- Cheap EAs cost $5/hr, good ones $10-15/hr — AI EA value prop is clear
+- Walks the Beltline working with his human EA on the phone — immediately understood Jason's AI EA vision
+- Uses a virtual assistant himself
+- Recommended Y Combinator
+- **Missed his own phone call to keep talking to Jason.** Brice had to sit and wait for them to finish. Major validation signal.
+
 ### Product Validation Signal
 - Multiple people at dinner expressed interest in the AI executive assistant
 - Toshi wants to beta test it
