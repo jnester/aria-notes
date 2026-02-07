@@ -121,6 +121,13 @@ One week from "I have no idea what I'm doing" to a full pipeline of connections,
 - AI version at $2/hr = obvious value proposition
 - Focus on EA angle, not dev tool (devs won't trust agent uncertainty)
 
+### Toshi's Intel (LinkedIn Lead Warming)
+- 8-step framework: profile view > follow > like > comment > share > connect > DM > meet
+- Key insight: 2 comments on someone's posts = they notice you
+- Made "ICP is Everything" website
+- 20 years startup consulting, PayPal/Red Hat/IBM clients
+- This is directly applicable NOW — start commenting on Carl's, Brice's, Brittany's posts
+
 ### Toshi's Intel (Uber/Airbnb insight)
 - Founders need to deeply understand the existing experience before building
 - Uber founders drove taxis. Airbnb founders slept in strangers' homes.
