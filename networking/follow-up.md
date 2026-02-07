@@ -1,5 +1,33 @@
 # Networking Follow-Ups
 
+## Brice's Dinner (Feb 7) - Follow-Ups
+
+### Carl (German, crypto/AI consulting) - LinkedIn
+**Status:** Connection request sent via QR code at dinner. Not yet accepted. Cannot find profile in search.
+**Priority:** HIGH - strongest connection of the night
+**Background:** Bitcoin early adopter, multiple startups, crypto tokenization company, AI consulting background. Invested in Dodo (dodo.health) - AI receptionist for vet clinics. Offered to help Jason, even if just advice. Started same path (consulting -> products). Told Jason to focus on executive assistant angle.
+**Backup plan:** Ask Brice for Carl's contact info if LinkedIn doesn't connect within a few days.
+**When accepted, send:** [draft message]
+
+### Toshi - LinkedIn
+**Status:** Connected via QR code at dinner.
+**Priority:** HIGH - she initiated wanting a call
+**Background:** Key figure at the event. Strong personal connection. Said "I love everything you're doing."
+**Action:** Schedule a call. She initiated, so follow up within a day or two.
+
+### Aubrey - LinkedIn
+**Status:** Connected at dinner.
+**Priority:** MEDIUM - voice agent for hotels, wants to connect
+**Background:** Does voice agents exclusively for hotel industry. End-to-end customer experience, caller ID by phone number.
+**Action:** Get on a call, share notes on voice agent approaches.
+
+### Brittany - LinkedIn
+**Status:** MESSAGED. She responded same night, invited Jason to Buckhead to meet Roswell bar owner friend. Raincheck taken.
+**Priority:** MEDIUM - warm, responsive, Roswell connection still on table
+**Action:** Follow up next week to schedule the Roswell intro.
+
+---
+
 ## ⚠️ CANCEL LinkedIn Premium before March 6, 2026
 **Signed up:** Feb 6, 2026 (1-month free trial)
 **Charges:** $52/month if not cancelled
