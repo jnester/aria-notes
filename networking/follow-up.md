@@ -130,6 +130,61 @@
 
 ---
 
+## Income Channels & Platforms
+
+### Neptune Technology Group (Josh's Company)
+**What:** Senior Software Developer position. Low workload, AI-friendly culture. Josh barely works a few hours/week.
+**Why:** Steady salary to fund runway. Removes desperation from consulting. Frees consulting to be purely about product validation.
+**LinkedIn strategy:** Do NOT list on LinkedIn. Keep consulting brand clean.
+**Risk:** If management discovers side business, could affect Josh and other devs. Discuss boundaries with Josh.
+**Action:** Start interview process this week. Talk to Josh about specifics during weekend visit.
+
+### BTG - Business Talent Group (btg.com)
+**What:** Marketplace connecting independent consultants with top companies for project-based work. Owned by Heidrick & Struggles.
+**Source:** Gerald recommended at Brice's dinner.
+**Action:** Sign up, build profile. Companies come to you with projects.
+
+### Catalant (catalant.com)
+**What:** 100K+ independent consultants on platform. Algorithm matches consultants to projects. Started at Harvard Business School.
+**Source:** Gerald recommended at Brice's dinner.
+**Action:** Sign up, build profile.
+
+### ATL Suppliers (atlsuppliers.com)
+**What:** City of Atlanta procurement portal. Register as vendor to see/bid on IT contracts across all city departments.
+**Source:** Recommended at networking event.
+**Why:** Local government = manual processes + real budgets + sticky relationships. Small business programs favor independent consultants.
+**Action:** Register as vendor. Browse IT solicitations.
+
+### SAM.gov (Federal Contracts)
+**What:** US government central hub for all federal contract opportunities. Search by category, agency, dollar amount.
+**Source:** Uncle Steve (government contractor, works on military base).
+**Strategy:** Two approaches:
+1. Direct: Browse and bid on contracts (longer process, harder)
+2. Backdoor (Steve's insight): Watch who wins big contracts, then apply to work at those companies. They're hiring and willing to pay.
+**Action:** Create account, browse AI/IT category. Watch for large awards.
+
+### Gwinnett County Government
+**What:** Jason has a contact in Gwinnett County government, especially emergency services.
+**Why:** Local government entry point. One county contract = case study for next county.
+**Action:** Reach out to contact. Explore what manual process pain exists.
+
+### TiE Atlanta
+**What:** World's largest entrepreneurship organization. Atlanta chapter since 1998, top 5 globally.
+**Offers:** Mentoring, networking, education, funding, angel investor network, ACCESS program.
+**Action:** Research membership, attend an event.
+
+### FinTech Sandbox (fintechsandbox.org)
+**What:** Resource for companies in fintech space.
+**Source:** Reginald recommended at Brice's dinner.
+**Action:** Research what they offer.
+
+### Chamber of Commerce / Trade Groups
+**What:** Local business owner associations. Regular networking events, workshops, mixers.
+**Why:** Exactly Jason's ICP — established SMB owners with real revenue and manual processes. The "trickle" people who just crossed from "maybe" to "I need AI."
+**Action:** Research Atlanta Chamber of Commerce events. Look for industry-specific trade groups.
+
+---
+
 ## Stefan / Lumina - Email
 **Status:** Intro email sent Feb 5 ~8-9pm. Stefan texted Jason's mom "thanks for the introduction" but hasn't replied to Jason directly yet.
 **Strategy:**
