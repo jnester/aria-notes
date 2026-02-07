@@ -5,7 +5,7 @@
 ### Carl (German, crypto/AI consulting) - LinkedIn
 **Status:** Connection request sent via QR code at dinner. Not yet accepted. Cannot find profile in search.
 **Priority:** HIGH - strongest connection of the night
-**Background:** Bitcoin early adopter, multiple startups, crypto tokenization company, AI consulting background. Invested in Dodo (dodo.health) - AI receptionist for vet clinics. Offered to help Jason, even if just advice. Started same path (consulting -> products). Told Jason to focus on executive assistant angle.
+**Background:** Bitcoin early adopter, multiple startups, crypto tokenization company (tokenize high-yield assets, claims 50% yield on staking - verify), AI consulting background. Invested in Dodo (dodo.health) - AI receptionist for vet clinics. Offered to help Jason, even if just advice. Started same path (consulting -> products). Told Jason to focus on executive assistant angle.
 **Backup plan:** Ask Brice for Carl's contact info if LinkedIn doesn't connect within a few days.
 **When accepted, send:** [draft message]
 
